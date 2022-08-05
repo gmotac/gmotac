@@ -2,8 +2,8 @@
 
  <div>
   <a href="https://github.com/gmotac">
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gmotac&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gmotac&layout=compact&langs_count=6&theme=tokyonight"/>
+  
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gmotac&layout=compact"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
